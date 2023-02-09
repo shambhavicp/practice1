@@ -3,7 +3,7 @@ class Program2{
 
 	System.out.println("hii bye");
 
-	int a=10;
+	int a=100;
 	System.out.println(a);
 
 	}
