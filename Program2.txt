@@ -3,5 +3,8 @@ class Program2{
 
 	System.out.println("hii bye");
 
+	int a=10;
+	System.out.println(a);
+
 	}
 }
